@@ -4,6 +4,8 @@ Welcome to the official repository for B3Pdb, a comprehensive knowledgebase of b
 
 **Web Server:** [https://webs.iiitd.edu.in/raghava/b3pdb/](https://webs.iiitd.edu.in/raghava/b3pdb/) 
 
+ZENODO ; https://doi.org/10.5281/zenodo.20062799
+
 ## Citation
 
 Kumar, V., Patiyal, S., Kumar, R., Sahai, S., Kaur, D., Lathwal, A., & Raghava, G. P. S. (2021).
